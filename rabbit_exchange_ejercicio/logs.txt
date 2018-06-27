@@ -1,0 +1,17 @@
+Email Logs
+Subject: Saludos 
+From email: pruebadajngo@gmail.com 
+ To: johnflorez_1289@hotmail.com 
+Message: 
+	Type: error 
+	Code: 500 
+	Message: error de servidor
+--------------------------------------------------Email Logs
+Subject: Saludos 
+From email: pruebadajngo@gmail.com 
+ To: johnflorez_1289@hotmail.com 
+Message: 
+	Type: debug 
+	Code: 302 
+	Message: error de servidor
+--------------------------------------------------
