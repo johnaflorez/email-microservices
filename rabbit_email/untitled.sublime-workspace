@@ -1,0 +1,551 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"from",
+				"from_email"
+			],
+			[
+				"__",
+				"__name__"
+			],
+			[
+				"in",
+				"inputArray"
+			],
+			[
+				"sum",
+				"suma_conteo_multiplos"
+			],
+			[
+				"suma",
+				"suma_digitos"
+			],
+			[
+				"imp",
+				"imprime_rango_valores"
+			],
+			[
+				"frase",
+				"frase_limpia"
+			],
+			[
+				"m",
+				"matrix4"
+			],
+			[
+				"ma",
+				"matrix"
+			],
+			[
+				"a",
+				"adjacentElementsProduct"
+			],
+			[
+				"c",
+				"checkPalindrome"
+			],
+			[
+				"i",
+				"inputArray"
+			],
+			[
+				"orden",
+				"orden_opuesto"
+			],
+			[
+				"produc",
+				"producto_lista_2"
+			],
+			[
+				"prod",
+				"producto_lista"
+			],
+			[
+				"menos",
+				"menos_venta"
+			],
+			[
+				"meno",
+				"menos_venta"
+			],
+			[
+				"to",
+				"total_v1"
+			],
+			[
+				"mayo",
+				"mayor_venta_mes"
+			],
+			[
+				"tot",
+				"total_v1"
+			],
+			[
+				"ven",
+				"Vendedor3"
+			],
+			[
+				"vende",
+				"vendedor1"
+			],
+			[
+				"vnde",
+				"vendedor3"
+			],
+			[
+				"total",
+				"total_vendedor1"
+			],
+			[
+				"venta",
+				"venta_vendedor_mes"
+			],
+			[
+				"lista",
+				"lista_p1"
+			],
+			[
+				"trabajador",
+				"trabajadores"
+			],
+			[
+				"traba",
+				"trabajo_viernes"
+			],
+			[
+				"nombre",
+				"nombre_trabajador"
+			],
+			[
+				"ho",
+				"horas_trabajadas"
+			],
+			[
+				"tra",
+				"Trabajador"
+			],
+			[
+				"hora",
+				"horas_trabajo_viernes"
+			],
+			[
+				"tota",
+				"total_sueldo"
+			],
+			[
+				"valor",
+				"valor_hora"
+			],
+			[
+				"h",
+				"horas_trabajadas"
+			],
+			[
+				"horas",
+				"horas_trabajadas"
+			],
+			[
+				"valo",
+				"valor_hora"
+			],
+			[
+				"im",
+				"imprime_rango_valores"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"lis",
+				"list_display"
+			],
+			[
+				"de",
+				"deleteModalForm"
+			],
+			[
+				"pro",
+				"projectman"
+			],
+			[
+				"log",
+				"login_required"
+			],
+			[
+				"question",
+				"question"
+			],
+			[
+				"HttpR",
+				"HttpResponseRedirect"
+			],
+			[
+				"Http",
+				"HttpResponse"
+			],
+			[
+				"D",
+				"D"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 132.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Install Package Control"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/pc/Escritorio/project_celery/project_celery/project_celery",
+		"/home/pc/Escritorio/project_celery/project_celery/templates"
+	],
+	"file_history":
+	[
+		"/home/pc/repositorio/projectman/projectman/projectman/views/login.py",
+		"/home/pc/repositorio/projectman/projectman/projectman/views/project_crud.py",
+		"/home/pc/Escritorio/project_celery/project_celery/templates/upload_file.html",
+		"/home/pc/Escritorio/project_celery/project_celery/project_celery/urls.py",
+		"/home/pc/Escritorio/project_celery/project_celery/read_file/models.py",
+		"/home/pc/Escritorio/project_celery/project_celery/read_file/form.py",
+		"/home/pc/Escritorio/project_celery/project_celery/project_celery/settings.py",
+		"/home/pc/repositorio/projectman/projectman/project/urls.py",
+		"/home/pc/repositorio/read_file/models.py",
+		"/home/pc/repositorio/projectman/projectman/project/settings.py",
+		"/home/pc/Escritorio/rabbit_response/example.py",
+		"/home/pc/repositorio/email-microservices/rabbit_exchange_ejercicio/worker_error.py",
+		"/home/pc/repositorio/email-microservices/rabbit_exchange_ejercicio/worker_log.py",
+		"/home/pc/repositorio/email-microservices/rabbit_exchange_ejercicio/send_email.py",
+		"/home/pc/Escritorio/rabbit_response/send_email.py",
+		"/home/pc/Escritorio/Ejercicios CodeFights/ejercicio11.py",
+		"/home/pc/Escritorio/Ejercicios CodeFights/ejercicio10.py",
+		"/home/pc/Escritorio/Ejercicios CodeFights/ejercicio9.py",
+		"/home/pc/Escritorio/Ejercicios CodeFights/ejercicio8.py",
+		"/home/pc/Escritorio/LSV/lsv/E2.py",
+		"/home/pc/Escritorio/LSV/lsv/03.py",
+		"/home/pc/Escritorio/LSV/lsv/02.py",
+		"/home/pc/repositorio/email-microservices/rabbit_email/worker.py",
+		"/home/pc/Escritorio/LSV/Python/torre_hanoi.py",
+		"/home/pc/Escritorio/LSV/Python/sudoku.py",
+		"/media/pc/MYLINUXLIVE/LSV para presentar/votos_presidenciales.py",
+		"/home/pc/Escritorio/LSV/Python/votos.py",
+		"/home/pc/Escritorio/LSV/Python/paseo_de_caballo.py",
+		"/home/pc/Escritorio/LSV/Python/ejercicio3.py",
+		"/home/pc/Escritorio/LSV/Python/ejercicios.py",
+		"/home/pc/Escritorio/LSV/lsv/E1.py",
+		"/home/pc/Escritorio/LSV/lsv/01.py",
+		"/home/pc/Escritorio/LSV/lsv/fibonnaci/johnflorez.py",
+		"/home/pc/repositorio/projectman/projectman/templates/base/sidebar.html",
+		"/home/pc/repositorio/projectman/projectman/projectman/views.py",
+		"/home/pc/repositorio/projectman/projectman/projectman/urls.py",
+		"/home/pc/repositorio/projectman/projectman/templates/projectman/registrer_user.html",
+		"/home/pc/repositorio/projectman/projectman/templates/project_task/project_list.html",
+		"/home/pc/Escritorio/Ejercicios LSV/Python/ejercicios_introduccion.py",
+		"/home/pc/Escritorio/Ejercicios CodeFights/ejercicio7.py",
+		"/home/pc/Escritorio/Ejercicios CodeFights/ejercicio6.py",
+		"/home/pc/Escritorio/Ejercicios CodeFights/ejercicio5.py",
+		"/home/pc/Escritorio/Ejercicios CodeFights/ejercicio4.py",
+		"/home/pc/Escritorio/Ejercicios CodeFights/ejercicio3.py",
+		"/home/pc/Escritorio/Ejercicios LSV/Python/ejercicio2.py",
+		"/home/pc/Escritorio/Ejercicios CodeFights/ejercicio2.py",
+		"/home/pc/Escritorio/Ejercicios CodeFights/ejercicio1.py",
+		"/home/pc/Escritorio/Ejercicios LSV/Python/torre_hanoi.py",
+		"/home/pc/Escritorio/Ejercicios LSV/Python/prueba.py",
+		"/home/pc/Escritorio/Ejercicios LSV/Python/sudoku.py",
+		"/home/pc/Escritorio/Ejercicios LSV/Consultas SQL/Ejercicios1 (copia).sql",
+		"/home/pc/Escritorio/Ejercicios LSV/INSERT INTO DETALLE_ORDEN (ORDEN_ID, DETALLE_ORDEN.txt",
+		"/media/pc/MYLINUXLIVE/votos_presidenciales.py",
+		"/home/pc/Escritorio/Ejercicios LSV/cuadrado_magico.py",
+		"/media/pc/MYLINUXLIVE/paseo_de_caballo.py",
+		"/home/pc/Escritorio/Ejercicios LSV/paseo_caballo.py",
+		"/home/pc/Escritorio/Ejercicios LSV/prueba.py",
+		"/home/pc/Escritorio/Ejercicios LSV/ejercicio3.py",
+		"/home/pc/Escritorio/prueba.py",
+		"/home/pc/Escritorio/ejercicio3.py",
+		"/home/pc/Escritorio/ejercicios.py",
+		"/home/pc/Escritorio/ejecricio2.py",
+		"/media/pc/MYLINUXLIVE/archivos/EjerciciosPython/Parte 4/prueba.py",
+		"/media/pc/MYLINUXLIVE/archivos/EjerciciosPython/Parte 4/ejercicio1.py",
+		"/media/pc/MYLINUXLIVE/archivos/EjerciciosPython/Parte 4/ejercicio2.py",
+		"/media/pc/MYLINUXLIVE/archivos/EjerciciosPython/Parte 3/ejercicio4.py",
+		"/media/pc/MYLINUXLIVE/archivos/EjerciciosPython/Parte 3/ejercicio3.py",
+		"/media/pc/MYLINUXLIVE/archivos/EjerciciosPython/Parte 3/ejercicio2.py",
+		"/media/pc/MYLINUXLIVE/archivos/EjerciciosPython/Parte 3/ejercicio1.py",
+		"/home/pc/Escritorio/projectman/projectman/templates/project_task/project_delete.html",
+		"/home/pc/repositorio/lsv/E1.py",
+		"/home/pc/Escritorio/projectman/projectman/projectman/admin.py",
+		"/home/pc/Escritorio/projectman/projectman/projectman/models/users.py",
+		"/home/pc/repositorio/lsv/E2.py",
+		"/home/pc/Escritorio/projectman/projectman/project/settings.py",
+		"/home/pc/Escritorio/projectman/projectman/projectman/urls.py",
+		"/home/pc/Escritorio/projectman/projectman/templates/project_task/project_list.html",
+		"/home/pc/Escritorio/projectman/projectman/templates/project_task/project_create.html",
+		"/home/pc/Escritorio/projectman/projectman/projectman/views.py",
+		"/home/pc/Escritorio/projectman/projectman/projectman/views/login.py",
+		"/home/pc/Escritorio/projectman/projectman/projectman/views/__init__.py",
+		"/home/pc/Escritorio/projectman/projectman/projectman/models/__init__.py",
+		"/home/pc/Escritorio/projectman/projectman/projectman/models/profiles.py",
+		"/home/pc/Escritorio/projectman/projectman/projectman/models.py",
+		"/home/pc/Escritorio/projectman/projectman/projectman/models/projects.py",
+		"/home/pc/Escritorio/projectman/projectman/templates/base/sidebar.html",
+		"/home/pc/repositorio/projectman/projectman/projectman/models.py",
+		"/home/pc/repositorio/projectman/projectman/templates/project_task/task_list_filter.html",
+		"/home/pc/repositorio/projectman/projectman/templates/project_task/task_list.html",
+		"/home/pc/repositorio/projectman/projectman/templates/project_task/task_detail.html",
+		"/home/pc/repositorio/projectman/projectman/templates/project_task/task_create.html",
+		"/home/pc/repositorio/projectman/projectman/templates/project_task/task.html",
+		"/home/pc/repositorio/projectman/projectman/templates/project_task/project_create.html",
+		"/home/pc/repositorio/projectman/projectman/templates/project_task/comment_list_filter.html",
+		"/home/pc/repositorio/projectman/projectman/templates/project_task/comment_list.html",
+		"/home/pc/repositorio/projectman/projectman/templates/project_task/comment_create.html",
+		"/home/pc/repositorio/projectman/projectman/templates/base/header.html",
+		"/home/pc/repositorio/projectman/projectman/templates/base/base.html",
+		"/home/pc/repositorio/projectman/projectman/projectman/forms.py",
+		"/home/pc/repositorio/projectman/projectman/projectman/admin.py",
+		"/home/pc/Escritorio/projectman/projectman/templates/proyecto/prueba.html",
+		"/home/pc/Escritorio/projectman/projectman/templates/project_task/project_list_filter.html",
+		"/home/pc/Documentos/projectman/projectman/templates/project_task/project_list.html",
+		"/home/pc/repositorio/projectman/projectman/templates/proyecto/nuevo.html",
+		"/home/pc/repositorio/projectman/projectman/projectman/migrations/0001_initial.py",
+		"/home/pc/repositorio/projectman/projectman/templates/project_task/task_delete.html",
+		"/home/pc/repositorio/projectman/projectman/templates/project_task/prueba_modal.html",
+		"/home/pc/repositorio/projectman/projectman/templates/inclusion_tags/modal_eliminar.html",
+		"/home/pc/repositorio/projectman/projectman/templates/project_task/project.html",
+		"/home/pc/repositorio/projectman/projectman/templates/project_task/modal_eliminar.html",
+		"/home/pc/repositorio/projectman/projectman/templates/project_task/project_delete.html",
+		"/home/pc/repositorio/projectman/projectman/static/dist/js/myscripts.js",
+		"/home/pc/repositorio/projectman/projectman/templates/projectman/project_list.html",
+		"/media/pc/MYLINUXLIVE/Projectman versiones/projectman v1/projectman/templates/intelproject/project_list.html",
+		"/media/pc/MYLINUXLIVE/Projectman versiones/projectman v1/projectman/templates/intelproject/project_delete.html",
+		"/home/pc/repositorio/projectman/projectman/templates/projectman/dashboard.html",
+		"/home/pc/repositorio/projectman/projectman/templates/proyecto/index.html",
+		"/home/pc/repositorio/projectman/projectman/templates/projectman/login2.html",
+		"/home/pc/repositorio/projectman/projectman/templates/task/project.html",
+		"/home/pc/Escritorio/projectman/projectman/templates/base/header.html",
+		"/home/pc/Escritorio/projectman/projectman/templates/base/base.html",
+		"/home/pc/Escritorio/projectman/projectman/templates/projectman/index.html",
+		"/home/pc/Escritorio/untitled.html",
+		"/media/pc/MYLINUXLIVE/Projectman versiones/projectman v1/projectman/intelproject/forms.py",
+		"/media/pc/MYLINUXLIVE/Projectman versiones/projectman v1/projectman/intelproject/views.py",
+		"/media/pc/MYLINUXLIVE/Projectman versiones/projectman v1/projectman/templates/intelproject/project_create.html",
+		"/home/pc/repositorio/projectman/projectman/templates/projectman/login.html",
+		"/media/pc/MYLINUXLIVE/Projectman versiones/projectman v1/projectman/projectman/views.py"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"print",
+			"  ",
+			"CANTIDAD",
+			"PRODUCT_ID",
+			"ORDEN_ID",
+			"DETALLE_ORDEN",
+			"DETALLE_ORDEN\n",
+			"'/');\n",
+			"buscar",
+			"off"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" ",
+			"cantidad",
+			"producto_id",
+			"orden_id",
+			"detalle_orden"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/pc/Escritorio/Ejercicios CodeFights"
+		},
+		{
+			"path": "/home/pc/repositorio/email-microservices/rabbit_exchange_ejercicio"
+		},
+		{
+			"path": "/home/pc/Escritorio/More Rabbit/rabbit_response"
+		},
+		{
+			"path": "/home/pc/Escritorio/project_celery/project_celery"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 182.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/python3.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
